@@ -22,3 +22,9 @@ nav:
   - Indicadores Institucionais e de Governança: indicadores_institucionais_governanca.md
   - Indicadores Demográficos: indicadores_demograficos.md
   - Indicadores Culturais: indicadores_culturais.md
+
+extra_javascript:
+  # 1) carrega a biblioteca do GA
+  - https://www.googletagmanager.com/gtag/js?id=G-EJ9HJJYV43
+  # 2) executa a configuração do GA
+  - js/analytics.js
